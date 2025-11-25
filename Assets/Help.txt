@@ -1,0 +1,17 @@
+2048 Guide
+===============================================================================
+
+* Key-board Controls:
+  0. Universal:
+    * 'esc' closes the game
+    * '-' & '=' toggle dark-mode
+    * '/' or 'h' opens this guide
+  1. In-game:
+    * 'w' or 'UP[-Arrow]' shift the blocks up
+    * 'a' or 'LEFT[-Arrow]' shift the blocks left
+    * 's' or 'DOWN[-Arrow]' shift the blocks down
+    * 'd' or 'RIGHT[-Arrow]' shift the blocks right
+
+* Stats:
+  * Times-won: 0
+  * High-score: 0
